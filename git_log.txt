@@ -1,0 +1,171 @@
+﻿================================================================================
+                   FDT AGENT - LOCAL GIT COMMIT LOG HISTORY                     
+================================================================================
+ExportedAt: 2026-10-19 07:18:00 UTC
+
+--- CONTRIBUTORS SUMMARY ---
+10	Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+
+--- MACHINE READABLE COMMITS ---
+COMMIT_ROW|3dd9855c1bc5ee342b194599433199f36e1dceaf|3dd9855|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T14:18:00+07:00|FDT Agent Auto-Commit [14:18:00]: Tự động sao lưu commit khi hết thời gian làm bài
+COMMIT_ROW|c2d4f15931a125ccad51f0da08980a52a461b246|c2d4f15|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T14:13:52+07:00|FDT Agent Auto-Commit [14:13:52]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|d928778a05fbe0402ad6decd9f0261f0b9b35a87|d928778|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T14:08:52+07:00|FDT Agent Auto-Commit [14:08:52]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|02096e91f2339badcd08fa69e90e32e2215b1b73|02096e9|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T14:03:52+07:00|FDT Agent Auto-Commit [14:03:52]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|e11fd258ce5f9fb0892af1ca3aa8fba925bbb87c|e11fd25|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T13:58:50+07:00|FDT Agent Auto-Commit [13:58:50]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|37962bfce2c2006a091521626d4b211ffaf54cc3|37962bf|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T13:53:50+07:00|FDT Agent Auto-Commit [13:53:50]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|59c84c7be0f0f5f14459d0bf8763a1ab55850112|59c84c7|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T13:48:48+07:00|FDT Agent Auto-Commit [13:48:48]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|3cece25c9fc1fce9b7fc93e342c437726d12920c|3cece25|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T13:43:46+07:00|FDT Agent Auto-Commit [13:43:46]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|b87fd4e526945beb624a57245ace3ae703705c4f|b87fd4e|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T13:28:40+07:00|FDT Agent Auto-Commit [13:28:40]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|f23b5b83343e1183dcc9bbef62ee9f93f72a5ae5|f23b5b8|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|Ngô Võ Quý (2415053122236)|2415053122236@fdt.ute.udn.vn|2026-10-19T13:25:12+07:00|FDT Agent: Initialized local project repository
+
+--- DETAILED COMMIT HISTORY WITH FILE STATS ---
+commit 3dd9855c1bc5ee342b194599433199f36e1dceaf
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 14:18:00 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 14:18:00 2026 +0700
+
+    FDT Agent Auto-Commit [14:18:00]: Tự động sao lưu commit khi hết thời gian làm bài
+
+ app/src/main/res/layout/activity_main.xml | 10 ++++++++--
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+
+commit c2d4f15931a125ccad51f0da08980a52a461b246
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 14:13:52 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 14:13:52 2026 +0700
+
+    FDT Agent Auto-Commit [14:13:52]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 20 ++++++++++++++++++--
+ 1 file changed, 18 insertions(+), 2 deletions(-)
+
+commit d928778a05fbe0402ad6decd9f0261f0b9b35a87
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 14:08:52 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 14:08:52 2026 +0700
+
+    FDT Agent Auto-Commit [14:08:52]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 31 ++++++++++++++++++++++++++++++-
+ 1 file changed, 30 insertions(+), 1 deletion(-)
+
+commit 02096e91f2339badcd08fa69e90e32e2215b1b73
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 14:03:52 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 14:03:52 2026 +0700
+
+    FDT Agent Auto-Commit [14:03:52]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 34 +++++++++++++++++++++++++++++++
+ 1 file changed, 34 insertions(+)
+
+commit e11fd258ce5f9fb0892af1ca3aa8fba925bbb87c
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 13:58:50 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 13:58:50 2026 +0700
+
+    FDT Agent Auto-Commit [13:58:50]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 34 +++++++++++++++++++------------
+ 1 file changed, 21 insertions(+), 13 deletions(-)
+
+commit 37962bfce2c2006a091521626d4b211ffaf54cc3
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 13:53:50 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 13:53:50 2026 +0700
+
+    FDT Agent Auto-Commit [13:53:50]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 2 ++
+ app/src/main/res/values/strings.xml       | 3 ++-
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+
+commit 59c84c7be0f0f5f14459d0bf8763a1ab55850112
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 13:48:48 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 13:48:48 2026 +0700
+
+    FDT Agent Auto-Commit [13:48:48]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/values/colors.xml  | 4 +++-
+ app/src/main/res/values/strings.xml | 8 +++++++-
+ 2 files changed, 10 insertions(+), 2 deletions(-)
+
+commit 3cece25c9fc1fce9b7fc93e342c437726d12920c
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 13:43:46 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 13:43:46 2026 +0700
+
+    FDT Agent Auto-Commit [13:43:46]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/build.gradle.kts               | 3 +++
+ app/src/main/res/values/colors.xml | 4 ++--
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+
+commit b87fd4e526945beb624a57245ace3ae703705c4f
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 13:28:40 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 13:28:40 2026 +0700
+
+    FDT Agent Auto-Commit [13:28:40]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/.gitignore                                     |   1 +
+ app/build.gradle.kts                               |  43 ++++
+ .../myapplication/ExampleInstrumentedTest.kt       |  24 ++
+ app/src/main/AndroidManifest.xml                   |  26 +++
+ .../java/com/example/myapplication/MainActivity.kt |  20 ++
+ app/src/main/keepRules/rules.keep                  |  12 +
+ .../main/res/drawable/ic_launcher_background.xml   | 170 ++++++++++++++
+ .../main/res/drawable/ic_launcher_foreground.xml   |  30 +++
+ app/src/main/res/layout/activity_main.xml          |  19 ++
+ app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml |   6 +
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |   6 +
+ app/src/main/res/mipmap-hdpi/ic_launcher.webp      | Bin 0 -> 1404 bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    | Bin 0 -> 2898 bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher.webp      | Bin 0 -> 982 bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    | Bin 0 -> 1772 bytes
+ app/src/main/res/mipmap-xhdpi/ic_launcher.webp     | Bin 0 -> 1900 bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   | Bin 0 -> 3918 bytes
+ app/src/main/res/mipmap-xxhdpi/ic_launcher.webp    | Bin 0 -> 2884 bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  | Bin 0 -> 5914 bytes
+ app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp   | Bin 0 -> 3844 bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp | Bin 0 -> 7778 bytes
+ app/src/main/res/values-night/themes.xml           |   7 +
+ app/src/main/res/values/colors.xml                 |   5 +
+ app/src/main/res/values/strings.xml                |   3 +
+ app/src/main/res/values/themes.xml                 |   9 +
+ app/src/main/res/xml/backup_rules.xml              |  13 ++
+ app/src/main/res/xml/data_extraction_rules.xml     |  19 ++
+ .../com/example/myapplication/ExampleUnitTest.kt   |  17 ++
+ build.gradle.kts                                   |   4 +
+ gradle.properties                                  |  19 ++
+ gradle/gradle-daemon-jvm.properties                |  12 +
+ gradle/libs.versions.toml                          |  24 ++
+ gradle/wrapper/gradle-wrapper.jar                  | Bin 0 -> 45457 bytes
+ gradle/wrapper/gradle-wrapper.properties           |   9 +
+ gradlew                                            | 251 +++++++++++++++++++++
+ gradlew.bat                                        |  94 ++++++++
+ local.properties                                   |  10 +
+ settings.gradle.kts                                |  27 +++
+ 38 files changed, 880 insertions(+)
+
+commit f23b5b83343e1183dcc9bbef62ee9f93f72a5ae5
+Author:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+AuthorDate: Mon Oct 19 13:25:12 2026 +0700
+Commit:     Ngô Võ Quý (2415053122236) <2415053122236@fdt.ute.udn.vn>
+CommitDate: Mon Oct 19 13:25:12 2026 +0700
+
+    FDT Agent: Initialized local project repository
+
+ .gitignore | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
