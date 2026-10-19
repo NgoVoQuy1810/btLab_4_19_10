@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="mau_nen">#1B2631</color>
-    <color name="">#27AE60</color>
+    <color name="mau_xanh">#27AE60</color>
+    <color name="mau_do">#E74C3C</color>
+    <color name="mau_trang">#FFFFFF</color>
 </resources>

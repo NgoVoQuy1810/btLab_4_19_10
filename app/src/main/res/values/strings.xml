@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">NGOVOQUY</string>
+    <string name="tieu_de">MÁY TÍNH</string>
+    <string name="goi_y_1">Nhập số thứ nhất</string>
+    <string name="goi_y_2">Nhập số thứ hai</string>
+    <string name="nut_tinh">Tính Toán</string>
+    <string name="nut_xoa">Xóa</string>
+    
 </resources>
