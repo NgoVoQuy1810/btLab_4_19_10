@@ -24,6 +24,40 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
 
+        <EditText
+            android:id="@+id/edtSo1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margintop="16dp"
+            android:text="@string/goi_y_1"
+            android:inputType="numberDecimal"
+            android:padding="14dp"
+            app:layout_constraintTop_toBottomOf="@id/tvTieuDe"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <EditText
+            android:id="@+id/edtSo2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margintop="16dp"
+            android:text="@string/goi_y_2"
+            android:inputType="numberDecimal"
+            android:padding="14dp"
+            app:layout_constraintTop_toBottomOf="@id/edtSo1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <RadioGroup
+            android:id="@+id/rgPhep"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margintop="16dp"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/edtSo2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" >
+
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
