@@ -56,7 +56,36 @@
             android:orientation="horizontal"
             app:layout_constraintTop_toBottomOf="@id/edtSo2"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintEnd_toEndOf="parent" >
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <RadioButton android:id="@+id/rbCong"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Cộng (+)"
+                android:checked="true"/>
+            <RadioButton android:id="@+id/rbTru"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Trừ (-)"/>
+            <RadioButton android:id="@+id/rbNhan"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Nhân (*)"/>
+            <RadioButton android:id="@+id/rbChia"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Chia (/)"/>
+        </RadioGroup>
+        
+        <CheckBox
+            android:id="@id+/cbTron"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/goi_y_1"
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
