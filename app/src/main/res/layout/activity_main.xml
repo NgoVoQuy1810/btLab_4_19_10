@@ -82,10 +82,26 @@
         </RadioGroup>
         
         <CheckBox
-            android:id="@id+/cbTron"
+            android:id="@+id/cbTron"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/goi_y_1"
+            android:text="Làm tròn 2 chữ số thập phân"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toBottomOf="@id/rgPhep"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <LinearLayout
+            android:id="@+id/llNUT"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@id/cbTron"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+        
+
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
